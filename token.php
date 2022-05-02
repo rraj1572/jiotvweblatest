@@ -32,5 +32,5 @@ function generateToken()
 }
 
 $token = generateToken();
-
+echo generateToken();
 ?>
